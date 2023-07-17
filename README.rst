@@ -3,7 +3,7 @@ Homebrew Repo
 
 .. code:: shell
 
-   brew tap gabrielfalcao/homebrew
+   brew tap gabrielfalcao/repo
 
 
 Formulas
